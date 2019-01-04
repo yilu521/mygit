@@ -6,6 +6,8 @@ public class myGit {
 		System.out.println("哈喽");
 		System.out.println("哈喽");
 		System.out.println("哈喽2");
+		System.out.println("哈喽2");
+		System.out.println("哈喽5");
 	}
 
 }
